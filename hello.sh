@@ -1,3 +1,5 @@
 echo "hello"
 echo "Hi"
 echo "This is gargi"
+echo "Hi everyone"
+echo "hi Anuradha"
