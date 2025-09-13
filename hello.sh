@@ -1,5 +1,7 @@
 echo "hello"
 echo "Hi"
 echo "This is gargi"
+echo "Hi everyone"
+echo "hi Anuradha"
 echo "Trying merge conflict"
 echo "Trying merge conflict from branch"
