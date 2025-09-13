@@ -1,3 +1,3 @@
 echo "hello"
-echo "Hi"
+echo "Hi everyone"
 echo "hi Anuradha"
